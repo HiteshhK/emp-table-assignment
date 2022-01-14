@@ -1,0 +1,4 @@
+.col-8.table-container.overflow-auto {
+  max-height: calc(100vh - 100px);
+  overflow: auto;
+}
